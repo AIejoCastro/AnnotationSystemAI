@@ -1,0 +1,42 @@
+{
+    "rodilla_derecha": {
+        "landmarks": [
+            24,
+            26,
+            28
+        ],
+        "description": "\u00c1ngulo de la rodilla derecha (cadera-rodilla-tobillo)"
+    },
+    "rodilla_izquierda": {
+        "landmarks": [
+            23,
+            25,
+            27
+        ],
+        "description": "\u00c1ngulo de la rodilla izquierda (cadera-rodilla-tobillo)"
+    },
+    "codo_derecho": {
+        "landmarks": [
+            12,
+            14,
+            16
+        ],
+        "description": "\u00c1ngulo del codo derecho (hombro-codo-mu\u00f1eca)"
+    },
+    "codo_izquierdo": {
+        "landmarks": [
+            11,
+            13,
+            15
+        ],
+        "description": "\u00c1ngulo del codo izquierdo (hombro-codo-mu\u00f1eca)"
+    },
+    "torso": {
+        "landmarks": [
+            11,
+            23,
+            24
+        ],
+        "description": "Inclinaci\u00f3n del torso"
+    }
+}
