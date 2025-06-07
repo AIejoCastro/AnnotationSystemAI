@@ -55,7 +55,7 @@ Entrega-2/
 
 ## Ejecución
 
-
+ir a la entrega-2 al directorio src
 
 ### Entrenar el modelo (solo si quieres re-entrenar)
 ```bash
